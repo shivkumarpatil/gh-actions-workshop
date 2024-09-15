@@ -9,7 +9,6 @@ name: Hello world ✨
 # be changed).
 on:
   - pull_request
-
 # Jobs are what actually do the work. We can add as many jobs as we want.
 # These will be run in parallel.
 jobs:

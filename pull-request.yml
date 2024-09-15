@@ -24,4 +24,9 @@ jobs:
     # Each job can have multiple steps. These will be run in sequence.
     steps:
       - name: Print message to terminal
-        run: echo "Hello World 🌏!!!"
+<<<<<<< HEAD
+        run: echo "Hello world welcome 🌏!"
+=======
+        run: echo "Hello World welcome🌏!!!"
+
+>>>>>>> bdb54e2d935fd0aaa9fd737b6803220efc58f6f6

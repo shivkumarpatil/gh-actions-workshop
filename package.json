@@ -1,0 +1,9 @@
+"scripts": {
+  "start": "vite",
+  "build": "vite build",
+  "test": "vitest run",
+  "lint:check": "eslint . --ext .ts,.tsx",
+  "lint:fix": "npm run lint:check -- --fix",
+  "format:check": "prettier --check .",
+  "format:fix": "prettier --write ."
+}

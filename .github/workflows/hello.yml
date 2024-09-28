@@ -15,7 +15,7 @@ jobs:
   hello_world_job:
     # As with workflow names (and even step names), job names are not
     # strictly required, but they are good practice.
-    name: Hello world 🌱
+    name: Hello world 🌱 🌍 
 
     # There are many virtual machines we can run our jobs on. The most
     # common one is `ubuntu-latest`. See this page for a full list of
